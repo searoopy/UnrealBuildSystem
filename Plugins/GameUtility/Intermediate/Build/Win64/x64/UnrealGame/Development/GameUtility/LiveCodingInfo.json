@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GameUtility.cpp.obj": [
+			"GameUtility.init.gen.cpp.obj",
+			"Person.gen.cpp.obj",
+			"GameUtility.cpp.obj",
+			"Person.cpp.obj"
+		]
+	}
+}

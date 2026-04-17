@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\workspace\\ronniej\\wanted4th\\unrealprojects\\unrealbuildsystem\\plugins\\gameutility\\source\\gameutility\\private\\gameutility.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\workspace\\ronniej\\wanted4th\\unrealprojects\\unrealbuildsystem\\intermediate\\build\\win64\\x64\\unrealbuildsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\workspace\\ronniej\\wanted4th\\unrealprojects\\unrealbuildsystem\\plugins\\gameutility\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameutility\\definitions.gameutility.h",
+            "c:\\workspace\\ronniej\\wanted4th\\unrealprojects\\unrealbuildsystem\\plugins\\gameutility\\source\\gameutility\\public\\gameutility.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

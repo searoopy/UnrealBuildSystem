@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameUtility.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Workspace/RonnieJ/Wanted4th/UnrealProjects/UnrealBuildSystem/Intermediate/Build/Win64/x64/UnrealBuildSystemEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:/Workspace/RonnieJ/Wanted4th/UnrealProjects/UnrealBuildSystem/Plugins/GameUtility/Intermediate/Build/Win64/x64/UnrealEditor/Development/GameUtility/Module.GameUtility.cpp.obj"
+"C:/Workspace/RonnieJ/Wanted4th/UnrealProjects/UnrealBuildSystem/Plugins/GameUtility/Intermediate/Build/Win64/x64/UnrealEditor/Development/GameUtility/GameUtility.cpp.obj"
+"C:/Workspace/RonnieJ/Wanted4th/UnrealProjects/UnrealBuildSystem/Plugins/GameUtility/Intermediate/Build/Win64/x64/UnrealEditor/Development/GameUtility/Default.rc2.res"
+/OUT:"C:/Workspace/RonnieJ/Wanted4th/UnrealProjects/UnrealBuildSystem/Plugins/GameUtility/Intermediate/Build/Win64/x64/UnrealEditor/Development/GameUtility/UnrealEditor-GameUtility.lib"
